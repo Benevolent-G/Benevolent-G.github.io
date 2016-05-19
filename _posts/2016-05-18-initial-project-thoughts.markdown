@@ -1,6 +1,7 @@
 ---
 layout: post
-
+title:  "Initial project thoughts"
+date:   2016-05-18
 ---
 ### This is my first post!
 
