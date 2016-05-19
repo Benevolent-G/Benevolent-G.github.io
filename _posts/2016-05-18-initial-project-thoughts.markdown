@@ -27,4 +27,12 @@ This project will meet certain criteria:
 Though my initial longing for a stats-based project has become tainted with the likes of hardware, I'm actually quite pleased. 
 I believe this excercise will be a valuable lesson in data-set creation, computer vision, software controlled hardware, and now blogging! 
 
-I'm eager to get started, but before I do, I'm going to sit down and engineer the process I'm going to follow and set a deadline (Parkinson's law).
+I'm eager to get started, but before I do, I'm going to sit down and engineer the process I'm going to follow and set a deadline [(Parkinson's law)](https://en.wikipedia.org/wiki/Parkinson%27s_law).
+<br><br>
+Thank you for your time in reading my first post! Stay tuned for project updates and feel free to connect with me on twitter, facebook, and github for more content.
+
+Best,
+
+-GP
+
+
