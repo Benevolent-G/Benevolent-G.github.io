@@ -14,16 +14,16 @@ My project idea is simple enough: validate the "fairness" of a die. I won't bore
 
 This project will meet certain criteria:
 
-1. automate input
+1. ####automate input
 	- physical agitator to "roll the die"
 	- camera to record the face of the die 
 	- OCR / openCV to decide what number the face shows
 	- controll the above (how? pi?)<br><br> 
  
-2. run the numbers on the input (the root idea, also the easiest componenet of this problem)
+2. ####run the numbers on the input (the root idea, also the easiest componenet of this problem)
 	- calculate stats as they roll, narrow the confidence interval<br><br>
  
-3. graphically represent the output with lovely charts
+3. ####graphically represent the output with lovely charts
 	- real time update as the program works would be pretty jazzy<br><br>
  
 
