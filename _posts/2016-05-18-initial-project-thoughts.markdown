@@ -5,7 +5,8 @@ date:   2016-05-18
 ---
 ### This is my first post!
 
-My goal for this site is not necessarily to showcase all the projects I create, but instead to give you - the viewer - a glimpse into my thought processes.
+My goal for this site is not necessarily to showcase all the projects I create, 
+but instead to give you - the viewer - a glimpse into my thought processes.
 Part of this project is the plain act of documenting my ideas - for reference, habit, sanity, etc. 
 I may indeed become more methodical in the process, but I'm also learning more about deploying websites, DNS, markdown, and I'm getting some pretty sweet practice with vi. 
 
