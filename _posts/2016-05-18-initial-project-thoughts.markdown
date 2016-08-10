@@ -17,6 +17,7 @@ This project will meet certain criteria:
 1. automate input
 	- physical agitator to "roll the die"
 	- camera to record the face of the die 
+	- OCR / openCV to decide what number the face shows
 	- controll the above (how? pi?)<br><br> 
  
 2. run the numbers on the input (the root idea, also the easiest componenet of this problem)
